@@ -1,0 +1,64 @@
+.mainpage {
+    background-image: url("./imgs/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;           
+}
+
+
+.eye-blue {
+    background-color: blue;
+}
+
+.eye-yellow {
+    background-color: yellow;
+}
+
+.eye-brown {
+    background-color: brown;
+}
+
+.eye-red {
+    background-color: red;
+}
+
+.eye-blue-gray {
+    background-color: #6E7B8B; /* You can adjust the color code as needed */
+}
+
+.eye-hazel {
+    background-color: #8E7618; /* You can adjust the color code as needed */
+}
+
+.eye-orange {
+    background-color: orange;
+}
+
+.eye-unknown {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.eye-pink {
+    background-color: pink;
+}
+
+.eye-black {
+    background-color: black;
+}
+
+.eye-gold {
+    background-color: gold;
+}
+
+.eye-white {
+    background-color: white;
+}
+
+
+.eye-green-yellow {
+    background: linear-gradient(to top left, yellow 50%, green 50%);
+}
+
+.eye-red-blue {
+    background: linear-gradient(to top left, blue 50%, red 50%);
+}
